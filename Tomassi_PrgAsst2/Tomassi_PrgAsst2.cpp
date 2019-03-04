@@ -1,6 +1,4 @@
-//Derek Tomassi
-//COMP 116
-//Prof Gagne
+
 #include <iostream>
 #include <fstream>
 using namespace std;
